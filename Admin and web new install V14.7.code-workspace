@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/14.7/Admin and web new install V14.7"
+		},
+		{
+			"path": "../../../../../Applications/XAMPP/xamppfiles/htdocs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"postman.settings.dotenv-detection-notification-visibility": false
+	}
+}
